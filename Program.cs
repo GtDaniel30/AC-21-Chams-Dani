@@ -26,15 +26,18 @@
                     break;
 
                 case 2:
+
                     break;
 
                 case 3:
                     break;
 
                 case 4:
+                    ElimnarNave();
                     break;
 
                 case 5:
+                    ElimnarTodo();
                     break;
 
                 default:
@@ -56,4 +59,10 @@
         System.Console.WriteLine("");
 
     }
+
+    
+
+    
+
+   
 }
