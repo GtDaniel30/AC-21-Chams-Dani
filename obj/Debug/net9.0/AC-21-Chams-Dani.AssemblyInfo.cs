@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AC-21-Chams-Dani")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf557e0f67eaf0f5728d1b3a761c47043801a34d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5538df1855c6373f9b630f95390b0bd2ee30b169")]
 [assembly: System.Reflection.AssemblyProductAttribute("AC-21-Chams-Dani")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AC-21-Chams-Dani")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
