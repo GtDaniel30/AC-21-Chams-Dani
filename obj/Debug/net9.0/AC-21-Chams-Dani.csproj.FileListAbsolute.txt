@@ -13,3 +13,18 @@ C:\Users\jesus\Desktop\AC 21 Chams Daniel\AC-21-Chams-Dani\obj\Debug\net9.0\refi
 C:\Users\jesus\Desktop\AC 21 Chams Daniel\AC-21-Chams-Dani\obj\Debug\net9.0\AC-21-Chams-Dani.pdb
 C:\Users\jesus\Desktop\AC 21 Chams Daniel\AC-21-Chams-Dani\obj\Debug\net9.0\AC-21-Chams-Dani.genruntimeconfig.cache
 C:\Users\jesus\Desktop\AC 21 Chams Daniel\AC-21-Chams-Dani\obj\Debug\net9.0\ref\AC-21-Chams-Dani.dll
+C:\Users\smart dell\Desktop\AC21\AC-21-Chams-Dani\bin\Debug\net9.0\AC-21-Chams-Dani.exe
+C:\Users\smart dell\Desktop\AC21\AC-21-Chams-Dani\bin\Debug\net9.0\AC-21-Chams-Dani.deps.json
+C:\Users\smart dell\Desktop\AC21\AC-21-Chams-Dani\bin\Debug\net9.0\AC-21-Chams-Dani.runtimeconfig.json
+C:\Users\smart dell\Desktop\AC21\AC-21-Chams-Dani\bin\Debug\net9.0\AC-21-Chams-Dani.dll
+C:\Users\smart dell\Desktop\AC21\AC-21-Chams-Dani\bin\Debug\net9.0\AC-21-Chams-Dani.pdb
+C:\Users\smart dell\Desktop\AC21\AC-21-Chams-Dani\obj\Debug\net9.0\AC-21-Chams-Dani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart dell\Desktop\AC21\AC-21-Chams-Dani\obj\Debug\net9.0\AC-21-Chams-Dani.AssemblyInfoInputs.cache
+C:\Users\smart dell\Desktop\AC21\AC-21-Chams-Dani\obj\Debug\net9.0\AC-21-Chams-Dani.AssemblyInfo.cs
+C:\Users\smart dell\Desktop\AC21\AC-21-Chams-Dani\obj\Debug\net9.0\AC-21-Chams-Dani.csproj.CoreCompileInputs.cache
+C:\Users\smart dell\Desktop\AC21\AC-21-Chams-Dani\obj\Debug\net9.0\AC-21-Chams-Dani.sourcelink.json
+C:\Users\smart dell\Desktop\AC21\AC-21-Chams-Dani\obj\Debug\net9.0\AC-21-Chams-Dani.dll
+C:\Users\smart dell\Desktop\AC21\AC-21-Chams-Dani\obj\Debug\net9.0\refint\AC-21-Chams-Dani.dll
+C:\Users\smart dell\Desktop\AC21\AC-21-Chams-Dani\obj\Debug\net9.0\AC-21-Chams-Dani.pdb
+C:\Users\smart dell\Desktop\AC21\AC-21-Chams-Dani\obj\Debug\net9.0\AC-21-Chams-Dani.genruntimeconfig.cache
+C:\Users\smart dell\Desktop\AC21\AC-21-Chams-Dani\obj\Debug\net9.0\ref\AC-21-Chams-Dani.dll

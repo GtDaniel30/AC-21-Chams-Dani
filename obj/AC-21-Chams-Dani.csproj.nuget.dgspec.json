@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jesus\\Desktop\\AC 21 Chams Daniel\\AC-21-Chams-Dani\\AC-21-Chams-Dani.csproj": {}
+    "C:\\Users\\smart dell\\Desktop\\AC21\\AC-21-Chams-Dani\\AC-21-Chams-Dani.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jesus\\Desktop\\AC 21 Chams Daniel\\AC-21-Chams-Dani\\AC-21-Chams-Dani.csproj": {
+    "C:\\Users\\smart dell\\Desktop\\AC21\\AC-21-Chams-Dani\\AC-21-Chams-Dani.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jesus\\Desktop\\AC 21 Chams Daniel\\AC-21-Chams-Dani\\AC-21-Chams-Dani.csproj",
+        "projectUniqueName": "C:\\Users\\smart dell\\Desktop\\AC21\\AC-21-Chams-Dani\\AC-21-Chams-Dani.csproj",
         "projectName": "AC-21-Chams-Dani",
-        "projectPath": "C:\\Users\\jesus\\Desktop\\AC 21 Chams Daniel\\AC-21-Chams-Dani\\AC-21-Chams-Dani.csproj",
-        "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jesus\\Desktop\\AC 21 Chams Daniel\\AC-21-Chams-Dani\\obj\\",
+        "projectPath": "C:\\Users\\smart dell\\Desktop\\AC21\\AC-21-Chams-Dani\\AC-21-Chams-Dani.csproj",
+        "packagesPath": "C:\\Users\\smart dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\smart dell\\Desktop\\AC21\\AC-21-Chams-Dani\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\smart dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
